@@ -6,8 +6,9 @@ using System.Linq;
 
 namespace SCHOOLHRADMINISTRATION
 {
-    public class Program
+    class Program
     {
+
        
 
         static void Main(string[] args)
